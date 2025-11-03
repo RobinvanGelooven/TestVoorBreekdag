@@ -1,6 +1,3 @@
 # TestVoorBreekdag
 
-Test 1 2 3, hoe werkt dit?
-Meer tesing dingetjes
-
-We gaan wat dingen aanpassen
+Ik begin toch wel een beetje moe te worden
